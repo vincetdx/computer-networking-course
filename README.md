@@ -1,6 +1,5 @@
-Netowrking-lab exam Assignment: 
+**Networking-lab exam Assignment:**
 _https://github.com/collab-uniba/lab-reti/blob/master/lab-exams/I%20Esonero%20di%20laboratorio%202024-25%20(TCP).md_
---------------------------------------------------------------------------------------------------------------------
 
 Project developed by Vincenzo Gigliarano, Luca Fraschini
 
